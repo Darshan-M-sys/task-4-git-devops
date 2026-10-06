@@ -1,0 +1,10 @@
+Git DevOps Project
+
+This project demonstrates:
+- Git repository management
+- Branching
+- Feature development
+- Pull Requests
+- Merge workflow
+- Git tags
+- .gitignore
